@@ -18,7 +18,7 @@ Learnings During this projects were:-
  
 
 ## Deployed Link
- [click here to see deployed version](https://paytm-clone-link.netlify.app/ "Click to Visit Link") 
+ [click here to see deployed version](https://rode-clone-link.netlify.app/ "Click to Visit Link") 
 
 
 ## Screenshots
